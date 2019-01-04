@@ -1,0 +1,8 @@
+Layout/IndentHeredoc:
+  Enabled: false
+
+Style/Documentation:
+  Enabled: false
+
+Style/EmptyMethod:
+  Enabled: false
